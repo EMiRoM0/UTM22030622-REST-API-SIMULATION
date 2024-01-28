@@ -1,0 +1,9 @@
+There is 3 files, well, now 4, because I script all the examples to test them
+So then, this was because I saw a tutorial and got support from a forum, so
+due to my little knowledge of JS (But I'll still learning tho)
+they recommended me to do this with other file and make the script of
+the functions, and then test it on the terminal, but I'm afraid to be wrong
+
+But anyways, this one was hard in my opinion, but it's ok.
+If I learn things like this, it's an achievement in my opinion, thanks.
+
